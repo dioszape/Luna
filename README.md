@@ -1,4 +1,4 @@
-# Luna 🌕 - v1.0
+# Luna WebShell 🌕 - v1.0
 
 ![Foto](https://i.ibb.co/h8MNr3H/imagen.png)
 
